@@ -30,3 +30,8 @@
 
 - Learn about best practices for optimizing web performance and code readability.
 
+
+## Author
+
+- [Poorvi Gopal](https://github.com/PoorviGopal)
+- Email: poorviadt@gmail.com
