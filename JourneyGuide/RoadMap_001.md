@@ -37,3 +37,9 @@
 
 - Explore creating ordered and unordered lists (`<ul>`, `<ol>`) and tables (`<table>`, `<tr>`, `<td>`).
 - Learn about attributes for formatting lists and tables.
+
+
+## Author
+
+- [Poorvi Gopal](https://github.com/PoorviGopal)
+- Email: poorviadt@gmail.com
