@@ -1,15 +1,15 @@
 # Beginner Level
 
-## Introduction to HTML
+### Introduction to HTML
 
 - Understand what HTML is and its role in web development.
 - Learn about web browsers and how they render HTML documents.
 
-## Basic HTML Structure
+### Basic HTML Structure
 
 - Study the basic structure of an HTML document, which includes the `<!DOCTYPE>`, `<html>`, `<head>`, and `<body>` elements.
 
-## HTML Elements
+### HTML Elements
 
 - Learn about fundamental HTML elements like headings, paragraphs, lists, and links.
 - Study the use of HTML tags and attributes.
