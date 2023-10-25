@@ -14,54 +14,31 @@
 - Learn about fundamental HTML elements like headings, paragraphs, lists, and links.
 - Study the use of HTML tags and attributes.
 
-## Text Formatting
+### Text Formatting
 
 - Explore text formatting elements like `<strong>`, `<em>`, `<u>`, and `<strike>`.
 
-## Working with Images
+### Working with Images
 
 - Understand how to include images using the `<img>` element.
 - Learn about attributes like `src`, `alt`, and `width`.
 
-## Creating Links
+### Creating Links
 
 - Explore creating hyperlinks using the `<a>` element.
 - Learn about relative and absolute URLs.
 
-## HTML Forms
+### HTML Forms
 
 - Study the `<form>` element and various form controls (e.g., `<input>`, `<textarea>`, `<select>`).
 - Learn about form attributes and input types.
 
-## Lists and Tables
+### Lists and Tables
 
 - Explore creating ordered and unordered lists (`<ul>`, `<ol>`) and tables (`<table>`, `<tr>`, `<td>`).
 - Learn about attributes for formatting lists and tables.
 
-# Intermediate Level
 
-## HTML Semantic Elements
-
-- Learn about semantic HTML5 elements like `<header>`, `<nav>`, `<article>`, and `<footer`.
-- Understand their role in improving the structure and accessibility of web pages.
-
-## HTML Forms and Input Validation
-
-- Explore advanced form handling, including validation with HTML5 attributes like `required` and `pattern`.
-- Learn about form submission methods.
-
-## Multimedia Elements
-
-- Study embedding multimedia using `<audio>` and `<video>` elements.
-- Understand the use of attributes like `controls`, `autoplay`, and `source`.
-
-## HTML Meta Tags
-
-- Learn about essential meta tags for SEO and web page description, like `<title>`, `<meta>`, and `<link>`.
-
-## HTML Entities and Special Characters
-
-- Understand how to display special characters and symbols using HTML entities.
 
 # Advanced Level
 
