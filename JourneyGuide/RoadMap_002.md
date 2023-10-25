@@ -22,3 +22,10 @@
 ### HTML Entities and Special Characters
 
 - Understand how to display special characters and symbols using HTML entities.
+
+
+## Author
+
+- [Poorvi Gopal](https://github.com/PoorviGopal)
+- Email: poorviadt@gmail.com
+
